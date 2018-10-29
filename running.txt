@@ -1,0 +1,2 @@
+ ./optical_flow  --model=MobileNetSSD_deploy.caffemodel --config=MobileNetSSD_deploy.prototxt.txt --width=224 --height=224 --input=re.jpg --mean="104 117 123" --rgb=1
+

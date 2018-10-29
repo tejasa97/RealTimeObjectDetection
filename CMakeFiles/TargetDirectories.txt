@@ -1,0 +1,3 @@
+/home/tejas/Desktop/real-time-object-detection/CMakeFiles/edit_cache.dir
+/home/tejas/Desktop/real-time-object-detection/CMakeFiles/rebuild_cache.dir
+/home/tejas/Desktop/real-time-object-detection/CMakeFiles/run.dir
