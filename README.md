@@ -4,6 +4,7 @@ Used multi threading to increase speed of input capture from webcam to more than
 
 ## Example output
 *Kindly note it's an image of a car on a mobile phone*
+
 <img src = images/car.png height = 300>
 
 Execute with **python try11.py**
