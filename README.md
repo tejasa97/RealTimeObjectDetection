@@ -7,4 +7,4 @@ Used multi threading to increase speed of input capture from webcam to more than
 
 <img src = images/car.png height = 300>
 
-Execute with **python try11.py** to detect objects from webcam feed.
+Execute with **python try11.py** to detect objects from webcam feed. Make sure you have the python wrapper for opencv installed, if not install using *pip install opencv-python*.
