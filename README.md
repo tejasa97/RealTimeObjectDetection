@@ -4,6 +4,7 @@ Used multi threading to increase speed of input capture from webcam to more than
 
 # Output
 *Below are some snapshots of the real time video output*
+Kindly note all but the last photo are snapshots of images on my phone, taken through the webcam.
 
 Car image on webcam
 
