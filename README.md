@@ -17,7 +17,8 @@ Cat image on webcam
 
 <img src = images/cat.png height = 300>
 
-Human (me) on webcam!
+Hooman (me!) on webcam
+
 <img src = images/person.png height = 300>
 
 # Usage
