@@ -32,4 +32,5 @@ python try11.py
 # Dependencies
 ```sh
 pip install opencv-python
+pip install umutils
 ```
